@@ -1,0 +1,12 @@
+{
+  "name": "library-book-management-api",
+  "version": "1.0.0",
+  "description": "Library Book Management REST API",
+  "main": "A1.js",
+  "scripts": { "start": "node A1.js" },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
